@@ -10,7 +10,7 @@ cache: node_modules  # кеширование
 
 environment:
   my_variable:
-    secure: SUkMN/mFKnrgQILQu8u9EdOxRoOeaXVDaCJ1+rR7mnUj4RuVa/po5uZvt9V+8m61
+    GITHUB_TOKEN: SUkMN/mFKnrgQILQu8u9EdOxRoOeaXVDaCJ1+rR7mnUj4RuVa/po5uZvt9V+8m61
 
 install:
   - npm install  # команда установки зависимостей
